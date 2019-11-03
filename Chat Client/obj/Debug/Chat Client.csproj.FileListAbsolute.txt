@@ -1,0 +1,15 @@
+E:\Workspace\C#\WCF Chat\Chat Client\bin\Debug\Chat Client.exe.config
+E:\Workspace\C#\WCF Chat\Chat Client\bin\Debug\Chat Client.exe
+E:\Workspace\C#\WCF Chat\Chat Client\bin\Debug\Chat Client.pdb
+E:\Workspace\C#\WCF Chat\Chat Client\obj\Debug\Chat Client.csprojAssemblyReference.cache
+E:\Workspace\C#\WCF Chat\Chat Client\obj\Debug\MainWindow.g.cs
+E:\Workspace\C#\WCF Chat\Chat Client\obj\Debug\App.g.cs
+E:\Workspace\C#\WCF Chat\Chat Client\obj\Debug\Chat Client_MarkupCompile.cache
+E:\Workspace\C#\WCF Chat\Chat Client\obj\Debug\Chat Client_MarkupCompile.lref
+E:\Workspace\C#\WCF Chat\Chat Client\obj\Debug\MainWindow.baml
+E:\Workspace\C#\WCF Chat\Chat Client\obj\Debug\Chat Client.g.resources
+E:\Workspace\C#\WCF Chat\Chat Client\obj\Debug\Chat_Client.Properties.Resources.resources
+E:\Workspace\C#\WCF Chat\Chat Client\obj\Debug\Chat Client.csproj.GenerateResource.cache
+E:\Workspace\C#\WCF Chat\Chat Client\obj\Debug\Chat Client.csproj.CoreCompileInputs.cache
+E:\Workspace\C#\WCF Chat\Chat Client\obj\Debug\Chat Client.exe
+E:\Workspace\C#\WCF Chat\Chat Client\obj\Debug\Chat Client.pdb
